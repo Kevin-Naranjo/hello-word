@@ -1,2 +1,1 @@
-# hello-word
-primer programa
+esto es una prueba del primer programn
